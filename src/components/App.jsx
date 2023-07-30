@@ -54,7 +54,7 @@ export const App = () => {
             positivePercentage={positiveFeedbackPercentage}
           />
         ) : (
-          <Notification message="There is no feedbck" />
+          <Notification message="There is no feedback" />
         )}
       </Section>
     </div>
